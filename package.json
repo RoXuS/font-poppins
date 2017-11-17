@@ -1,0 +1,19 @@
+{
+  "name": "@roxux/font-poppins",
+  "version": "0.0.1",
+  "description": "An HTML import for Poppins",
+  "authors": [
+    "RoXuS"
+  ],
+  "keywords": [
+    "font",
+    "poppins"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RoXuS/font-poppins.git"
+  },
+  "main": "poppins.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/RoXuS/font-poppins/"
+}
